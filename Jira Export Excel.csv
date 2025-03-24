@@ -1,0 +1,6 @@
+﻿Issue Type,Issue key,Issue id,Summary,Assignee,Assignee Id,Reporter,Reporter Id,Priority,Status,Resolution,Created,Updated,Due date
+Story,SCRUM-5,10004,Task data lost when refreshing page during creation,Dương Đình Trung,712020:7212eafd-a91e-4ea2-8698-33b63c79984f,Dương Đình Trung,712020:7212eafd-a91e-4ea2-8698-33b63c79984f,Medium,To Do,,24/Mar/25 2:23 PM,24/Mar/25 2:24 PM,
+Story,SCRUM-4,10003,No clear error message when editing task offline,Dương Đình Trung,712020:7212eafd-a91e-4ea2-8698-33b63c79984f,Dương Đình Trung,712020:7212eafd-a91e-4ea2-8698-33b63c79984f,Medium,To Do,,24/Mar/25 2:22 PM,24/Mar/25 2:24 PM,
+Story,SCRUM-3,10002,Empty title allowed when editing task,Dương Đình Trung,712020:7212eafd-a91e-4ea2-8698-33b63c79984f,Dương Đình Trung,712020:7212eafd-a91e-4ea2-8698-33b63c79984f,Medium,To Do,,24/Mar/25 2:21 PM,24/Mar/25 2:24 PM,
+Story,SCRUM-2,10001,Past due date accepted without error,Dương Đình Trung,712020:7212eafd-a91e-4ea2-8698-33b63c79984f,Dương Đình Trung,712020:7212eafd-a91e-4ea2-8698-33b63c79984f,Medium,To Do,,24/Mar/25 2:20 PM,24/Mar/25 2:23 PM,
+Story,SCRUM-1,10000,Empty task title is accepted,Dương Đình Trung,712020:7212eafd-a91e-4ea2-8698-33b63c79984f,Dương Đình Trung,712020:7212eafd-a91e-4ea2-8698-33b63c79984f,Medium,To Do,,24/Mar/25 2:17 PM,24/Mar/25 2:17 PM,
